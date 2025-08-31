@@ -23,7 +23,7 @@ The goal is to uncover meaningful insights such as:
 ---
 
 #Technologies & Libraries
-- Python 🐍  
+- Python 
 - Pandas  
 - NumPy  
 - Matplotlib  
